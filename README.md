@@ -1,5 +1,5 @@
 # 💫 Hi, This is Kiran 
-🔭 I’m currently working on MedAI <br>🌱 I’m currently learning React, TypeScript, Redux
+🌱 I’m currently learning React, TypeScript, Redux
 
 
 ## 🌐 Socials:
